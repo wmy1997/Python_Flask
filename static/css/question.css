@@ -1,0 +1,16 @@
+.form-container{
+    width: 500px;
+    margin: 0 auto;
+}
+.from-group{
+    padding: 8px;
+    text-align: right;
+}
+h3{
+    text-align: center;
+}
+.btn{
+    margin-bottom: 15px;
+    width: 70px;
+
+}

@@ -1,0 +1,14 @@
+.main{
+    background-color: #fff;
+    width: 730px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.logo{
+    width: 100px;
+    height: 25px;
+}
+body{
+    background-color: #f3f3f3;
+}

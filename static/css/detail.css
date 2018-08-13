@@ -1,0 +1,42 @@
+h3{
+    text-align: center;
+    padding: 10px 0;
+    font-weight: bold;
+}
+.main{
+    padding: 0 10px;
+}
+.question-info{
+    text-align: center;
+}
+.question-info span{
+    padding: 0 10px;
+}
+.answer-list li{
+    list-style: none;
+    border-bottom: 1px solid #eee;
+
+}
+.answer-list{
+    padding-left: 0;
+}
+.avator{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.user-info{
+    font-size: 15px;
+    color: #9b9b9b;
+    line-height: 40px;
+}
+.user-info .username{
+    margin-left: 20px;
+}
+.user-info .create_time{
+    float: right;
+}
+.answer-content{
+    padding: 10px 0;
+    margin-left: 60px;
+}
